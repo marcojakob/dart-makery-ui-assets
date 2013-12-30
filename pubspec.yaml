@@ -1,0 +1,4 @@
+name: makery_ui_assets
+version: 0.0.1
+description: Assets for Polymer.dart elements
+dependencies:
